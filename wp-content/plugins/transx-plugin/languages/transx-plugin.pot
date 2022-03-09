@@ -1,0 +1,2258 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Artureanec WP\n"
+"POT-Creation-Date: 2022-01-31 23:39+0200\n"
+"PO-Revision-Date: 2016-01-26 20:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: Artureanec <artureanec@ya.ru>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: widgets/address.php:15
+msgid "Contacts Widget by TransX Theme"
+msgstr ""
+
+#: widgets/address.php:49 widgets/categories.php:41 widgets/contacts.php:55
+#: widgets/content-slider.php:133 widgets/content-slider.php:136
+#: widgets/download-doc.php:81 widgets/featured-posts.php:43
+#: widgets/gallery-slider.php:71 widgets/gallery.php:92
+#: widgets/icon-box.php:129 widgets/linked-item.php:80
+#: widgets/linked-item.php:82 widgets/price-item.php:96
+#: widgets/promo-box.php:88 widgets/socials.php:62 widgets/time-line.php:89
+#: widgets/working-hours.php:52
+msgid "Title"
+msgstr ""
+
+#: widgets/address.php:59 widgets/contacts.php:65 widgets/socials.php:120
+msgid "Address"
+msgstr ""
+
+#: widgets/address.php:67 widgets/address.php:77 widgets/contacts.php:78
+#: widgets/location.php:195
+msgid "Phone Number"
+msgstr ""
+
+#: widgets/address.php:87 widgets/contacts.php:101 widgets/contacts.php:176
+#: widgets/socials.php:148
+msgid "Email"
+msgstr ""
+
+#: widgets/address.php:97 widgets/contacts.php:185 widgets/socials.php:158
+msgid "Opening hours"
+msgstr ""
+
+#: widgets/blockquote.php:28 widgets/blockquote.php:47
+#: widgets/blockquote.php:54
+msgid "Blockquote"
+msgstr ""
+
+#: widgets/blockquote.php:56
+msgid "Enter your text"
+msgstr ""
+
+#: widgets/blockquote.php:63
+msgid "Blockquote View Type"
+msgstr ""
+
+#: widgets/blockquote.php:67 widgets/blog.php:59 widgets/icon-box.php:60
+#: widgets/links-list.php:58 widgets/promo-box.php:58 wild-world-plugin.php:461
+#: wild-world-plugin.php:570 wild-world-plugin.php:589
+msgid "View Type 1"
+msgstr ""
+
+#: widgets/blockquote.php:68 widgets/blog.php:60 widgets/icon-box.php:61
+#: widgets/links-list.php:59 widgets/promo-box.php:59 wild-world-plugin.php:462
+#: wild-world-plugin.php:571 wild-world-plugin.php:590
+msgid "View Type 2"
+msgstr ""
+
+#: widgets/blockquote.php:81
+msgid "Blockquote Settings"
+msgstr ""
+
+#: widgets/blockquote.php:90
+msgid "Blockquote Typography"
+msgstr ""
+
+#: widgets/blockquote.php:98
+msgid "Blockquote Color"
+msgstr ""
+
+#: widgets/blockquote.php:109
+msgid "Blockquote Background"
+msgstr ""
+
+#: widgets/blockquote.php:123
+msgid "Blockquote Padding"
+msgstr ""
+
+#: widgets/blog-slider.php:29 widgets/blog-slider.php:52
+msgid "Blog Slider"
+msgstr ""
+
+#: widgets/blog-slider.php:59
+msgid "Showed Items"
+msgstr ""
+
+#: widgets/blog-slider.php:63
+msgid "Showed Default Items"
+msgstr ""
+
+#: widgets/blog-slider.php:64
+msgid "Showed Custom Items"
+msgstr ""
+
+#: widgets/blog-slider.php:80
+msgid "No Posts Were Found"
+msgstr ""
+
+#: widgets/blog-slider.php:87
+msgid "Choose Items"
+msgstr ""
+
+#: widgets/blog-slider.php:101 widgets/blog.php:68
+#: widgets/gallery-slider.php:82
+msgid "Items Per Page"
+msgstr ""
+
+#: widgets/blog-slider.php:111 widgets/blog.php:77
+#: widgets/featured-posts.php:65
+msgid "Order By"
+msgstr ""
+
+#: widgets/blog-slider.php:115 widgets/blog.php:81
+msgid "Post Date"
+msgstr ""
+
+#: widgets/blog-slider.php:116 widgets/blog.php:82
+msgid "Random"
+msgstr ""
+
+#: widgets/blog-slider.php:117 widgets/blog.php:83
+msgid "Post ID"
+msgstr ""
+
+#: widgets/blog-slider.php:118 widgets/blog.php:84
+msgid "Post Title"
+msgstr ""
+
+#: widgets/blog-slider.php:126 widgets/blog.php:93
+msgid "Order"
+msgstr ""
+
+#: widgets/blog-slider.php:130 widgets/blog.php:97
+msgid "Descending"
+msgstr ""
+
+#: widgets/blog-slider.php:131 widgets/blog.php:98
+msgid "Ascending"
+msgstr ""
+
+#: widgets/blog-slider.php:139 widgets/gallery-slider.php:92
+#: widgets/time-line.php:238
+msgid "Fullwidth Mode"
+msgstr ""
+
+#: widgets/blog-slider.php:142 widgets/blog-slider.php:154
+#: widgets/blog-slider.php:274 widgets/blog-slider.php:307
+#: widgets/blog-slider.php:332 widgets/content-slider.php:553
+#: widgets/content-slider.php:593 widgets/content-slider.php:645
+#: widgets/content-slider.php:713 widgets/content-slider.php:859
+#: widgets/gallery-slider.php:95 widgets/gallery-slider.php:184
+#: widgets/heading.php:113 widgets/heading.php:167 widgets/icon-box.php:240
+#: widgets/icon-box.php:265 widgets/linked-item-slider.php:197
+#: widgets/testimonials.php:229 widgets/time-line.php:229
+#: widgets/time-line.php:241 widgets/video.php:287 wild-world-plugin.php:493
+msgid "Off"
+msgstr ""
+
+#: widgets/blog-slider.php:143 widgets/blog-slider.php:155
+#: widgets/blog-slider.php:275 widgets/blog-slider.php:308
+#: widgets/blog-slider.php:333 widgets/content-slider.php:554
+#: widgets/content-slider.php:594 widgets/content-slider.php:646
+#: widgets/content-slider.php:714 widgets/content-slider.php:860
+#: widgets/gallery-slider.php:96 widgets/gallery-slider.php:185
+#: widgets/heading.php:114 widgets/heading.php:168 widgets/icon-box.php:241
+#: widgets/icon-box.php:266 widgets/linked-item-slider.php:198
+#: widgets/testimonials.php:230 widgets/time-line.php:230
+#: widgets/time-line.php:242 widgets/video.php:288 wild-world-plugin.php:494
+msgid "On"
+msgstr ""
+
+#: widgets/blog-slider.php:151
+msgid "Promo Button"
+msgstr ""
+
+#: widgets/blog-slider.php:163
+msgid "Promo Button Text"
+msgstr ""
+
+#: widgets/blog-slider.php:165
+msgid "All Blog"
+msgstr ""
+
+#: widgets/blog-slider.php:166
+msgid "Enter Donate Popup Button Text"
+msgstr ""
+
+#: widgets/blog-slider.php:177
+msgid "Promo Button Link"
+msgstr ""
+
+#: widgets/blog-slider.php:184 widgets/button.php:71
+#: widgets/content-slider.php:209 widgets/icon-box.php:189
+#: widgets/linked-item-slider.php:98 widgets/linked-item.php:121
+#: widgets/links-list.php:96 widgets/location.php:85 widgets/person.php:122
+#: widgets/promo-box.php:126
+msgid "http://your-link.com"
+msgstr ""
+
+#: widgets/blog-slider.php:199 widgets/content-slider.php:783
+#: widgets/gallery-slider.php:109 widgets/linked-item-slider.php:122
+#: widgets/testimonials.php:153 widgets/time-line.php:126
+msgid "Slider Settings"
+msgstr ""
+
+#: widgets/blog-slider.php:206 widgets/content-slider.php:790
+#: widgets/gallery-slider.php:116 widgets/linked-item-slider.php:129
+#: widgets/testimonials.php:160 widgets/time-line.php:148
+msgid "Animation Speed"
+msgstr ""
+
+#: widgets/blog-slider.php:215 widgets/content-slider.php:800
+#: widgets/gallery-slider.php:125 widgets/linked-item-slider.php:138
+#: widgets/testimonials.php:170 widgets/time-line.php:158
+msgid "Infinite Loop"
+msgstr ""
+
+#: widgets/blog-slider.php:219 widgets/blog-slider.php:233
+#: widgets/blog-slider.php:259 widgets/button.php:107
+#: widgets/content-slider.php:804 widgets/content-slider.php:818
+#: widgets/content-slider.php:844 widgets/gallery-slider.php:129
+#: widgets/gallery-slider.php:143 widgets/gallery-slider.php:169
+#: widgets/linked-item-slider.php:142 widgets/linked-item-slider.php:156
+#: widgets/linked-item-slider.php:182 widgets/price-item.php:164
+#: widgets/price-item.php:227 widgets/price-item.php:345
+#: widgets/testimonials.php:174 widgets/testimonials.php:188
+#: widgets/testimonials.php:214 widgets/time-line.php:162
+#: widgets/time-line.php:176 widgets/time-line.php:202
+msgid "Yes"
+msgstr ""
+
+#: widgets/blog-slider.php:220 widgets/blog-slider.php:234
+#: widgets/blog-slider.php:260 widgets/button.php:106
+#: widgets/content-slider.php:805 widgets/content-slider.php:819
+#: widgets/content-slider.php:845 widgets/gallery-slider.php:130
+#: widgets/gallery-slider.php:144 widgets/gallery-slider.php:170
+#: widgets/linked-item-slider.php:143 widgets/linked-item-slider.php:157
+#: widgets/linked-item-slider.php:183 widgets/price-item.php:163
+#: widgets/price-item.php:226 widgets/price-item.php:344
+#: widgets/testimonials.php:175 widgets/testimonials.php:189
+#: widgets/testimonials.php:215 widgets/time-line.php:163
+#: widgets/time-line.php:177 widgets/time-line.php:203
+msgid "No"
+msgstr ""
+
+#: widgets/blog-slider.php:229 widgets/content-slider.php:814
+#: widgets/gallery-slider.php:139 widgets/linked-item-slider.php:152
+#: widgets/testimonials.php:184 widgets/time-line.php:172
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/blog-slider.php:243 widgets/content-slider.php:828
+#: widgets/gallery-slider.php:153 widgets/linked-item-slider.php:166
+#: widgets/testimonials.php:198 widgets/time-line.php:186
+msgid "Autoplay Speed"
+msgstr ""
+
+#: widgets/blog-slider.php:255 widgets/content-slider.php:840
+#: widgets/gallery-slider.php:165 widgets/linked-item-slider.php:178
+#: widgets/testimonials.php:210 widgets/time-line.php:198
+msgid "Pause on Hover"
+msgstr ""
+
+#: widgets/blog-slider.php:271 widgets/content-slider.php:856
+#: widgets/gallery-slider.php:181 widgets/linked-item-slider.php:194
+#: widgets/testimonials.php:226 widgets/time-line.php:226
+msgid "Rtl Support"
+msgstr ""
+
+#: widgets/blog-slider.php:288
+msgid "Title Part"
+msgstr ""
+
+#: widgets/blog-slider.php:295 widgets/heading.php:29 widgets/heading.php:48
+#: widgets/heading.php:55
+msgid "Heading"
+msgstr ""
+
+#: widgets/blog-slider.php:297 widgets/heading.php:57 widgets/time-line.php:60
+msgid "Enter your heading"
+msgstr ""
+
+#: widgets/blog-slider.php:298 widgets/heading.php:58
+msgid "This is heading element"
+msgstr ""
+
+#: widgets/blog-slider.php:305 widgets/heading.php:111 widgets/heading.php:126
+#: widgets/time-line.php:71
+msgid "Up Heading"
+msgstr ""
+
+#: widgets/blog-slider.php:317 widgets/heading.php:123
+msgid "Enter Up Heading"
+msgstr ""
+
+#: widgets/blog-slider.php:319 widgets/blog-slider.php:344
+#: widgets/heading.php:125 widgets/heading.php:179 widgets/testimonials.php:86
+#: widgets/time-line.php:70
+msgid "Enter up heading"
+msgstr ""
+
+#: widgets/blog-slider.php:320
+msgid "Blog"
+msgstr ""
+
+#: widgets/blog-slider.php:330 widgets/heading.php:165
+msgid "Up Heading Overlay"
+msgstr ""
+
+#: widgets/blog-slider.php:342 widgets/heading.php:177
+#: widgets/testimonials.php:84
+msgid "Enter Up Heading Overlay"
+msgstr ""
+
+#: widgets/blog-slider.php:361
+msgid "Blog Slider Settings"
+msgstr ""
+
+#: widgets/blog-slider.php:369
+msgid "Content Block Padding"
+msgstr ""
+
+#: widgets/blog-slider.php:381
+msgid "Content Block Background"
+msgstr ""
+
+#: widgets/blog-slider.php:394
+msgid "Meta Typography"
+msgstr ""
+
+#: widgets/blog-slider.php:402
+msgid "Meta Color"
+msgstr ""
+
+#: widgets/blog-slider.php:415 widgets/blog.php:207
+#: widgets/content-slider.php:357 widgets/download-doc.php:143
+#: widgets/gallery.php:233 widgets/icon-box.php:441 widgets/linked-item.php:267
+#: widgets/price-item.php:453 widgets/testimonials.php:305
+#: widgets/time-line.php:327
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/blog-slider.php:423 widgets/blog.php:215
+#: widgets/content-slider.php:365 widgets/download-doc.php:151
+#: widgets/gallery.php:164 widgets/icon-box.php:428 widgets/linked-item.php:275
+#: widgets/price-item.php:461 widgets/testimonials.php:313
+#: widgets/time-line.php:335
+msgid "Title Color"
+msgstr ""
+
+#: widgets/blog-slider.php:436 widgets/blog.php:305
+#: widgets/download-doc.php:183
+msgid "Excerpt Typography"
+msgstr ""
+
+#: widgets/blog-slider.php:444 widgets/blog.php:313
+#: widgets/download-doc.php:191
+msgid "Excerpt Color"
+msgstr ""
+
+#: widgets/blog-slider.php:461
+msgid "Title Part Settings"
+msgstr ""
+
+#: widgets/blog-slider.php:470 widgets/heading.php:259
+#: widgets/time-line.php:285
+msgid "Heading Typography"
+msgstr ""
+
+#: widgets/blog-slider.php:478 widgets/heading.php:276
+#: widgets/time-line.php:293
+msgid "Heading Color"
+msgstr ""
+
+#: widgets/blog-slider.php:491 widgets/heading.php:306
+msgid "Up Heading Typography"
+msgstr ""
+
+#: widgets/blog-slider.php:502 widgets/heading.php:317
+msgid "Up Heading Color"
+msgstr ""
+
+#: widgets/blog-slider.php:517 widgets/heading.php:384
+#: widgets/testimonials.php:351
+msgid "Up Heading Overlay Color"
+msgstr ""
+
+#: widgets/blog-slider.php:693 widgets/blog.php:402 widgets/blog.php:453
+#: widgets/blog.php:481
+msgid "by "
+msgstr ""
+
+#: widgets/blog.php:29 widgets/blog.php:48
+msgid "Blog Listing"
+msgstr ""
+
+#: widgets/blog.php:55 widgets/content-slider.php:59
+#: widgets/download-doc.php:56 widgets/icon-box.php:56
+#: widgets/links-list.php:54 widgets/price-item.php:55 widgets/promo-box.php:54
+#: widgets/tabs.php:59 widgets/testimonials.php:59 widgets/video.php:59
+#: wild-world-plugin.php:456 wild-world-plugin.php:566
+#: wild-world-plugin.php:585
+msgid "View Type"
+msgstr ""
+
+#: widgets/blog.php:106
+msgid "Pagination"
+msgstr ""
+
+#: widgets/blog.php:110 widgets/time-line.php:218
+msgid "Show"
+msgstr ""
+
+#: widgets/blog.php:111 widgets/time-line.php:217
+msgid "Hide"
+msgstr ""
+
+#: widgets/blog.php:125
+msgid "Blog Listing Settings"
+msgstr ""
+
+#: widgets/blog.php:133
+msgid "Spaces After Items"
+msgstr ""
+
+#: widgets/blog.php:153
+msgid "Space After Image"
+msgstr ""
+
+#: widgets/blog.php:174
+msgid "Content Area Background"
+msgstr ""
+
+#: widgets/blog.php:188 widgets/heading.php:287 widgets/icon-box.php:513
+#: widgets/linked-item.php:248 widgets/price-item.php:432
+#: widgets/testimonials.php:324
+msgid "Space After Title"
+msgstr ""
+
+#: widgets/blog.php:226 widgets/gallery.php:216
+msgid "Title Hover"
+msgstr ""
+
+#: widgets/blog.php:237
+msgid "Space After Post Meta"
+msgstr ""
+
+#: widgets/blog.php:256
+msgid "Post Meta Typography"
+msgstr ""
+
+#: widgets/blog.php:264
+msgid "Post Meta Color"
+msgstr ""
+
+#: widgets/blog.php:275
+msgid "Post Meta Hover"
+msgstr ""
+
+#: widgets/blog.php:286
+msgid "Space After Excerpt"
+msgstr ""
+
+#: widgets/blog.php:389 widgets/blog.php:447 widgets/blog.php:474
+msgid "Featured Image"
+msgstr ""
+
+#: widgets/blog.php:421
+msgid "Explore More"
+msgstr ""
+
+#: widgets/blog.php:531
+msgid "Back"
+msgstr ""
+
+#: widgets/blog.php:532
+msgid "Next"
+msgstr ""
+
+#: widgets/button.php:29 widgets/button.php:48 widgets/button.php:57
+#: widgets/content-slider.php:195 widgets/promo-box.php:109
+msgid "Button"
+msgstr ""
+
+#: widgets/button.php:55 widgets/content-slider.php:193
+#: widgets/linked-item-slider.php:81 widgets/price-item.php:201
+#: widgets/price-item.php:204 widgets/promo-box.php:107
+msgid "Button Text"
+msgstr ""
+
+#: widgets/button.php:64 widgets/content-slider.php:202
+#: widgets/promo-box.php:119
+msgid "Button Link"
+msgstr ""
+
+#: widgets/button.php:78 widgets/price-item.php:807 widgets/video.php:107
+msgid "Button Alignment"
+msgstr ""
+
+#: widgets/button.php:82 widgets/content-slider.php:158
+#: widgets/content-slider.php:270 widgets/content-slider.php:298
+#: widgets/content-slider.php:326 widgets/heading.php:89
+#: widgets/heading.php:140 widgets/heading.php:195 widgets/icon-box.php:215
+#: widgets/linked-item.php:132 widgets/price-item.php:811
+#: widgets/socials.php:76 widgets/video.php:111 wild-world-plugin.php:512
+#: wild-world-plugin.php:540
+msgid "Left"
+msgstr ""
+
+#: widgets/button.php:86 widgets/content-slider.php:162
+#: widgets/content-slider.php:274 widgets/content-slider.php:302
+#: widgets/content-slider.php:330 widgets/heading.php:93
+#: widgets/heading.php:144 widgets/heading.php:199 widgets/icon-box.php:219
+#: widgets/linked-item.php:136 widgets/price-item.php:815
+#: widgets/socials.php:77 widgets/video.php:115 wild-world-plugin.php:516
+#: wild-world-plugin.php:544
+msgid "Center"
+msgstr ""
+
+#: widgets/button.php:90 widgets/content-slider.php:166
+#: widgets/content-slider.php:278 widgets/content-slider.php:306
+#: widgets/content-slider.php:334 widgets/heading.php:97
+#: widgets/heading.php:148 widgets/heading.php:203 widgets/icon-box.php:223
+#: widgets/linked-item.php:140 widgets/price-item.php:819
+#: widgets/socials.php:78 widgets/video.php:119 wild-world-plugin.php:520
+#: wild-world-plugin.php:548
+msgid "Right"
+msgstr ""
+
+#: widgets/button.php:104
+msgid "Fullwidth Button"
+msgstr ""
+
+#: widgets/button.php:121 widgets/linked-item.php:329
+#: widgets/price-item.php:635
+msgid "Button Settings"
+msgstr ""
+
+#: widgets/button.php:130 widgets/content-slider.php:920
+#: widgets/linked-item.php:338 widgets/price-item.php:664
+msgid "Button Typography"
+msgstr ""
+
+#: widgets/button.php:143 widgets/content-slider.php:421
+#: widgets/content-slider.php:933 widgets/gallery.php:129
+#: widgets/linked-item.php:351 widgets/price-item.php:677 widgets/tabs.php:400
+#: widgets/video.php:314
+msgid "Normal"
+msgstr ""
+
+#: widgets/button.php:150 widgets/content-slider.php:428
+#: widgets/content-slider.php:940 widgets/linked-item.php:358
+#: widgets/price-item.php:684
+msgid "Button Color"
+msgstr ""
+
+#: widgets/button.php:161 widgets/content-slider.php:439
+#: widgets/content-slider.php:951 widgets/linked-item.php:369
+#: widgets/price-item.php:695
+msgid "Button Background"
+msgstr ""
+
+#: widgets/button.php:172 widgets/content-slider.php:450
+#: widgets/content-slider.php:962 widgets/linked-item.php:380
+#: widgets/price-item.php:706
+msgid "Button Border"
+msgstr ""
+
+#: widgets/button.php:196 widgets/content-slider.php:474
+#: widgets/content-slider.php:986 widgets/gallery.php:181
+#: widgets/linked-item.php:404 widgets/price-item.php:730 widgets/tabs.php:445
+#: widgets/video.php:370
+msgid "Hover"
+msgstr ""
+
+#: widgets/button.php:203 widgets/content-slider.php:481
+#: widgets/content-slider.php:993 widgets/linked-item.php:411
+#: widgets/price-item.php:737
+msgid "Button Hover"
+msgstr ""
+
+#: widgets/button.php:214 widgets/content-slider.php:492
+#: widgets/content-slider.php:1004 widgets/linked-item.php:422
+#: widgets/price-item.php:748 widgets/video.php:441
+msgid "Button Background Hover"
+msgstr ""
+
+#: widgets/button.php:225 widgets/content-slider.php:503
+#: widgets/content-slider.php:1015 widgets/linked-item.php:433
+#: widgets/price-item.php:759
+msgid "Button Border Hover"
+msgstr ""
+
+#: widgets/button.php:248 widgets/content-slider.php:1089
+#: widgets/linked-item.php:456 widgets/price-item.php:782
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/button.php:261 widgets/content-slider.php:1102
+#: widgets/linked-item.php:469 widgets/price-item.php:795 widgets/video.php:425
+msgid "Button Padding"
+msgstr ""
+
+#: widgets/calculator.php:29
+msgid "Calculator"
+msgstr ""
+
+#: widgets/calculator.php:52 widgets/person.php:29 widgets/person.php:48
+msgid "Person"
+msgstr ""
+
+#: widgets/calculator.php:61
+msgid "Transport Type"
+msgstr ""
+
+#: widgets/calculator.php:70 widgets/price-item.php:129
+msgid "Price"
+msgstr ""
+
+#: widgets/calculator.php:79 widgets/price-item.php:106
+msgid "Currency"
+msgstr ""
+
+#: widgets/calculator.php:88
+msgid "Transport Types List"
+msgstr ""
+
+#: widgets/calculator.php:100
+msgid "Max Distance"
+msgstr ""
+
+#: widgets/calculator.php:102
+msgid "Enter Maximum Distance"
+msgstr ""
+
+#: widgets/calculator.php:111
+msgid "Units of Distance"
+msgstr ""
+
+#: widgets/calculator.php:120
+msgid "Units of Weight"
+msgstr ""
+
+#: widgets/calculator.php:129
+msgid "Refrigerate price"
+msgstr ""
+
+#: widgets/calculator.php:144
+msgid "Calculator Settings"
+msgstr ""
+
+#: widgets/calculator.php:152
+msgid "Ccurrency Position"
+msgstr ""
+
+#: widgets/calculator.php:156 widgets/price-item.php:121
+msgid "After Price"
+msgstr ""
+
+#: widgets/calculator.php:157 widgets/price-item.php:120
+msgid "Before Price"
+msgstr ""
+
+#: widgets/calculator.php:185
+msgid "Calculated Data"
+msgstr ""
+
+#: widgets/calculator.php:190 widgets/calculator.php:193
+msgid "Truckload Type"
+msgstr ""
+
+#: widgets/calculator.php:208
+msgid "Price: "
+msgstr ""
+
+#: widgets/calculator.php:234
+msgid "Weight"
+msgstr ""
+
+#: widgets/calculator.php:248
+msgid "Refrigerate"
+msgstr ""
+
+#: widgets/calculator.php:257
+msgid "Distance"
+msgstr ""
+
+#: widgets/calculator.php:288
+msgid "Calculate"
+msgstr ""
+
+#: widgets/categories.php:15
+msgid "Show Categories of Your Custom Post Types"
+msgstr ""
+
+#: widgets/categories.php:51
+msgid "Select Post Type"
+msgstr ""
+
+#: widgets/contacts.php:29 widgets/contacts.php:48 widgets/contacts.php:57
+msgid "Contacts"
+msgstr ""
+
+#: widgets/contacts.php:58
+msgid "Enter Your Title"
+msgstr ""
+
+#: widgets/contacts.php:68
+msgid "Enter Address"
+msgstr ""
+
+#: widgets/contacts.php:82 widgets/location.php:199
+msgid "Enter Phone Number"
+msgstr ""
+
+#: widgets/contacts.php:89 widgets/location.php:206
+msgid "Phones"
+msgstr ""
+
+#: widgets/contacts.php:104
+msgid "Enter Your Email"
+msgstr ""
+
+#: widgets/contacts.php:112 widgets/working-hours.php:38
+msgid "Working Hours"
+msgstr ""
+
+#: widgets/contacts.php:115
+msgid "Enter Working Hours"
+msgstr ""
+
+#: widgets/contacts.php:152 widgets/location.php:30 widgets/location.php:49
+msgid "Location"
+msgstr ""
+
+#: widgets/contacts.php:161
+msgid "Phone"
+msgstr ""
+
+#: widgets/content-slider.php:29 widgets/content-slider.php:52
+msgid "Content Slider"
+msgstr ""
+
+#: widgets/content-slider.php:63 widgets/download-doc.php:60
+#: widgets/testimonials.php:63 widgets/video.php:63
+msgid "Type 1"
+msgstr ""
+
+#: widgets/content-slider.php:64 widgets/download-doc.php:61
+#: widgets/testimonials.php:64 widgets/video.php:64
+msgid "Type 2"
+msgstr ""
+
+#: widgets/content-slider.php:65 widgets/download-doc.php:62
+#: widgets/testimonials.php:65
+msgid "Type 3"
+msgstr ""
+
+#: widgets/content-slider.php:66
+msgid "Type 4"
+msgstr ""
+
+#: widgets/content-slider.php:74
+msgid "Content Width Type"
+msgstr ""
+
+#: widgets/content-slider.php:78
+msgid "Boxed"
+msgstr ""
+
+#: widgets/content-slider.php:79
+msgid "Fullwidth"
+msgstr ""
+
+#: widgets/content-slider.php:88
+msgid "Slider Height"
+msgstr ""
+
+#: widgets/content-slider.php:112
+msgid "Slide Name"
+msgstr ""
+
+#: widgets/content-slider.php:122
+msgid "Slide Image"
+msgstr ""
+
+#: widgets/content-slider.php:135
+msgid "Enter title"
+msgstr ""
+
+#: widgets/content-slider.php:143 widgets/content-slider.php:146
+msgid "Title Overlay"
+msgstr ""
+
+#: widgets/content-slider.php:145
+msgid "Enter title overlay"
+msgstr ""
+
+#: widgets/content-slider.php:153
+msgid "Title Overlay Alignment"
+msgstr ""
+
+#: widgets/content-slider.php:181
+msgid "Promo Text"
+msgstr ""
+
+#: widgets/content-slider.php:185
+msgid "Enter Promo Text"
+msgstr ""
+
+#: widgets/content-slider.php:216
+msgid "Content Container Max Width"
+msgstr ""
+
+#: widgets/content-slider.php:234
+msgid "Content Top Offset"
+msgstr ""
+
+#: widgets/content-slider.php:252
+msgid "Promo Text Padding"
+msgstr ""
+
+#: widgets/content-slider.php:265
+msgid "Content Container Alignment"
+msgstr ""
+
+#: widgets/content-slider.php:293
+msgid "Content Container Vertical Alignment"
+msgstr ""
+
+#: widgets/content-slider.php:321
+msgid "Content Container Text Align"
+msgstr ""
+
+#: widgets/content-slider.php:384
+msgid "Title Part 2 Typography"
+msgstr ""
+
+#: widgets/content-slider.php:392
+msgid "Title Part 2 Color"
+msgstr ""
+
+#: widgets/content-slider.php:404 widgets/content-slider.php:890
+msgid "Promo Text Color"
+msgstr ""
+
+#: widgets/content-slider.php:526
+msgid "Slides"
+msgstr ""
+
+#: widgets/content-slider.php:543
+msgid "Additional Fields"
+msgstr ""
+
+#: widgets/content-slider.php:550
+msgid "Content Slider Anchor"
+msgstr ""
+
+#: widgets/content-slider.php:564
+msgid "Enter Anchor Text"
+msgstr ""
+
+#: widgets/content-slider.php:566
+msgid "Scroll Down"
+msgstr ""
+
+#: widgets/content-slider.php:577
+msgid "Enter Anchor ID"
+msgstr ""
+
+#: widgets/content-slider.php:590 widgets/tabs.php:91 widgets/video.php:29
+#: widgets/video.php:52
+msgid "Video"
+msgstr ""
+
+#: widgets/content-slider.php:602 widgets/tabs.php:122 widgets/video.php:73
+msgid "Enter Video Link"
+msgstr ""
+
+#: widgets/content-slider.php:615 widgets/featured-posts.php:105
+#: widgets/gallery.php:302 widgets/image-box.php:54 widgets/promo-box.php:68
+#: widgets/video.php:83
+msgid "Image"
+msgstr ""
+
+#: widgets/content-slider.php:629 widgets/tabs.php:149 widgets/video.php:97
+msgid "Play Button Text"
+msgstr ""
+
+#: widgets/content-slider.php:631 widgets/tabs.php:151 widgets/video.php:99
+msgid "Enter Play Button Text"
+msgstr ""
+
+#: widgets/content-slider.php:632 widgets/tabs.php:152 widgets/video.php:100
+msgid "Watch Our Video"
+msgstr ""
+
+#: widgets/content-slider.php:642 widgets/content-slider.php:710
+msgid "Additional Info Block"
+msgstr ""
+
+#: widgets/content-slider.php:657 widgets/content-slider.php:725
+msgid "Additional Info Image"
+msgstr ""
+
+#: widgets/content-slider.php:672 widgets/content-slider.php:740
+msgid "Additional Info Title"
+msgstr ""
+
+#: widgets/content-slider.php:684 widgets/content-slider.php:752
+msgid "Additional Info Content"
+msgstr ""
+
+#: widgets/content-slider.php:697 widgets/content-slider.php:765
+#: widgets/image-box.php:88
+msgid "Info Box Background"
+msgstr ""
+
+#: widgets/content-slider.php:873 widgets/price-item.php:424
+msgid "Content Settings"
+msgstr ""
+
+#: widgets/content-slider.php:882
+msgid "Promo Text Typography"
+msgstr ""
+
+#: widgets/content-slider.php:901
+msgid "Space Before Promo Text"
+msgstr ""
+
+#: widgets/content-slider.php:1034
+msgid "Slider Buttons Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1046
+msgid "Slider Buttons Hover Background"
+msgstr ""
+
+#: widgets/content-slider.php:1057
+msgid "Slider Buttons Border Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1072 widgets/price-item.php:643
+msgid "Space Before Button"
+msgstr ""
+
+#: widgets/content-slider.php:1119
+msgid "Additional Fields Settings"
+msgstr ""
+
+#: widgets/content-slider.php:1127
+msgid "Additional Fields Height"
+msgstr ""
+
+#: widgets/content-slider.php:1144
+msgid "Additional Fields Container Background"
+msgstr ""
+
+#: widgets/content-slider.php:1156
+msgid "Slider Anchor Color"
+msgstr ""
+
+#: widgets/content-slider.php:1171
+msgid "Slider Anchor Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1186
+msgid "Slider Anchor Typography"
+msgstr ""
+
+#: widgets/content-slider.php:1198
+msgid "Video Overlay Color"
+msgstr ""
+
+#: widgets/content-slider.php:1213
+msgid "Play Button Text Color"
+msgstr ""
+
+#: widgets/content-slider.php:1227
+msgid "Play Button Text Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1241
+msgid "Play Button Color"
+msgstr ""
+
+#: widgets/content-slider.php:1255
+msgid "Play Button Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1269
+msgid "Play Button Background"
+msgstr ""
+
+#: widgets/content-slider.php:1283
+msgid "Play Button Background Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1298
+msgid "Info Titles Color"
+msgstr ""
+
+#: widgets/content-slider.php:1314
+msgid "Info Titles Typography"
+msgstr ""
+
+#: widgets/content-slider.php:1325
+msgid "Info Color"
+msgstr ""
+
+#: widgets/content-slider.php:1339
+msgid "Info Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1354
+msgid "Info Typography"
+msgstr ""
+
+#: widgets/content-slider.php:1548 widgets/content-slider.php:1738
+#: widgets/content-slider.php:1780
+msgid "Background"
+msgstr ""
+
+#: widgets/content-slider.php:1613 widgets/content-slider.php:1647
+msgid "Info Image"
+msgstr ""
+
+#: widgets/download-doc.php:30 widgets/download-doc.php:49
+msgid "Download Document"
+msgstr ""
+
+#: widgets/download-doc.php:70
+msgid "Document Link"
+msgstr ""
+
+#: widgets/download-doc.php:91 widgets/price-item.php:188
+#: widgets/time-line.php:99
+msgid "Description"
+msgstr ""
+
+#: widgets/download-doc.php:101
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/download-doc.php:113
+msgid "Preview Icon"
+msgstr ""
+
+#: widgets/download-doc.php:134
+msgid "Download Documents Settings"
+msgstr ""
+
+#: widgets/download-doc.php:163 widgets/linked-item.php:305
+#: widgets/price-item.php:605 widgets/time-line.php:348
+msgid "Description Typography"
+msgstr ""
+
+#: widgets/download-doc.php:171 widgets/linked-item.php:313
+#: widgets/time-line.php:356
+msgid "Description Color"
+msgstr ""
+
+#: widgets/download-doc.php:266 widgets/download-doc.php:307
+#: widgets/icon-box.php:76 widgets/icon-box.php:101 widgets/icon-box.php:583
+#: widgets/icon-box.php:699
+msgid "SVG Icon"
+msgstr ""
+
+#: widgets/featured-posts.php:15
+msgid "Featured Posts Widget by TransX Theme"
+msgstr ""
+
+#: widgets/featured-posts.php:53
+msgid "Number of Posts"
+msgstr ""
+
+#: widgets/gallery-slider.php:29 widgets/gallery-slider.php:51
+msgid "Gallery Slider"
+msgstr ""
+
+#: widgets/gallery-slider.php:58 widgets/gallery.php:102 widgets/tabs.php:110
+msgid "Add Images"
+msgstr ""
+
+#: widgets/gallery-slider.php:67 widgets/gallery.php:88
+msgid "Image Title Type"
+msgstr ""
+
+#: widgets/gallery-slider.php:72 widgets/gallery.php:93
+msgid "Capture"
+msgstr ""
+
+#: widgets/gallery-slider.php:73 widgets/gallery.php:94
+msgid "None"
+msgstr ""
+
+#: widgets/gallery.php:29 widgets/gallery.php:51 widgets/tabs.php:90
+msgid "Gallery"
+msgstr ""
+
+#: widgets/gallery.php:58
+msgid "Gallery Type"
+msgstr ""
+
+#: widgets/gallery.php:62
+msgid "Masonry"
+msgstr ""
+
+#: widgets/gallery.php:63
+msgid "Grid"
+msgstr ""
+
+#: widgets/gallery.php:71
+msgid "Items In Row"
+msgstr ""
+
+#: widgets/gallery.php:75 widgets/time-line.php:137
+msgid "Two"
+msgstr ""
+
+#: widgets/gallery.php:76 widgets/time-line.php:138
+msgid "Three"
+msgstr ""
+
+#: widgets/gallery.php:77 widgets/time-line.php:139
+msgid "Four"
+msgstr ""
+
+#: widgets/gallery.php:116 widgets/tabs.php:245
+msgid "Gallery Settings"
+msgstr ""
+
+#: widgets/gallery.php:137 widgets/gallery.php:189 widgets/linked-item.php:180
+#: widgets/tabs.php:297 widgets/tabs.php:321 widgets/video.php:192
+msgid "Overlay Color"
+msgstr ""
+
+#: widgets/gallery.php:146 widgets/gallery.php:198 widgets/linked-item.php:192
+#: widgets/tabs.php:332 widgets/video.php:207
+msgid "Overlay Opacity"
+msgstr ""
+
+#: widgets/heading.php:65
+msgid "HTML Tag"
+msgstr ""
+
+#: widgets/heading.php:68
+msgid "H1"
+msgstr ""
+
+#: widgets/heading.php:69
+msgid "H2"
+msgstr ""
+
+#: widgets/heading.php:70
+msgid "H3"
+msgstr ""
+
+#: widgets/heading.php:71
+msgid "H4"
+msgstr ""
+
+#: widgets/heading.php:72
+msgid "H5"
+msgstr ""
+
+#: widgets/heading.php:73
+msgid "H6"
+msgstr ""
+
+#: widgets/heading.php:74
+msgid "div"
+msgstr ""
+
+#: widgets/heading.php:75
+msgid "span"
+msgstr ""
+
+#: widgets/heading.php:76
+msgid "p"
+msgstr ""
+
+#: widgets/heading.php:85
+msgid "Heading Alignment"
+msgstr ""
+
+#: widgets/heading.php:136
+msgid "Up Heading Alignment"
+msgstr ""
+
+#: widgets/heading.php:191
+msgid "Overlay Alignment"
+msgstr ""
+
+#: widgets/heading.php:220
+msgid "Overlay Container Width"
+msgstr ""
+
+#: widgets/heading.php:250
+msgid "Heading Settings"
+msgstr ""
+
+#: widgets/heading.php:268
+msgid "Heading Text Shadow"
+msgstr ""
+
+#: widgets/heading.php:331 widgets/linked-item.php:210
+#: widgets/testimonials.php:286
+msgid "Space After Up Title"
+msgstr ""
+
+#: widgets/heading.php:351
+msgid "Up Heading Overlay Border Size"
+msgstr ""
+
+#: widgets/heading.php:373 widgets/testimonials.php:343
+msgid "Up Heading Overlay Typography"
+msgstr ""
+
+#: widgets/heading.php:398
+msgid "Up Heading Overlay Vertical Position"
+msgstr ""
+
+#: widgets/icon-box.php:30 widgets/icon-box.php:49
+msgid "Icon Box"
+msgstr ""
+
+#: widgets/icon-box.php:62
+msgid "View Type 3"
+msgstr ""
+
+#: widgets/icon-box.php:63
+msgid "View Type 4"
+msgstr ""
+
+#: widgets/icon-box.php:71
+msgid "Type of Icon"
+msgstr ""
+
+#: widgets/icon-box.php:75
+msgid "Default Icon"
+msgstr ""
+
+#: widgets/icon-box.php:77 widgets/icon-box.php:114
+msgid "Custom Text"
+msgstr ""
+
+#: widgets/icon-box.php:85 widgets/icon-box.php:168 widgets/person.php:101
+#: widgets/promo-box.php:219
+msgid "Icon"
+msgstr ""
+
+#: widgets/icon-box.php:102
+msgid "Enter svg code"
+msgstr ""
+
+#: widgets/icon-box.php:117
+msgid "Enter Custom Text"
+msgstr ""
+
+#: widgets/icon-box.php:127
+msgid "Icon Box Title"
+msgstr ""
+
+#: widgets/icon-box.php:130
+msgid "Enter Icon Box Title"
+msgstr ""
+
+#: widgets/icon-box.php:138
+msgid "Type of Icon Box Information"
+msgstr ""
+
+#: widgets/icon-box.php:143
+msgid "Custom Information"
+msgstr ""
+
+#: widgets/icon-box.php:144 widgets/icon-box.php:196 widgets/person.php:155
+#: widgets/socials.php:176
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/icon-box.php:153
+msgid "Icon Box Information"
+msgstr ""
+
+#: widgets/icon-box.php:156 widgets/promo-box.php:100
+msgid "Enter Your Custom Information"
+msgstr ""
+
+#: widgets/icon-box.php:182 widgets/linked-item.php:114
+#: widgets/links-list.php:89 widgets/person.php:115 widgets/price-item.php:212
+msgid "Link"
+msgstr ""
+
+#: widgets/icon-box.php:211
+msgid "Icon Box Alignment"
+msgstr ""
+
+#: widgets/icon-box.php:238 widgets/icon-box.php:250 widgets/icon-box.php:252
+msgid "Additional Title"
+msgstr ""
+
+#: widgets/icon-box.php:253
+msgid "Enter Additional Title"
+msgstr ""
+
+#: widgets/icon-box.php:263 widgets/icon-box.php:275
+msgid "Count Number"
+msgstr ""
+
+#: widgets/icon-box.php:293
+msgid "Icon Box Settings"
+msgstr ""
+
+#: widgets/icon-box.php:301
+msgid "Icon Box Background"
+msgstr ""
+
+#: widgets/icon-box.php:317 widgets/price-item.php:342
+#: widgets/price-item.php:393
+msgid "Price Item Border"
+msgstr ""
+
+#: widgets/icon-box.php:330
+msgid "Icon Box Padding"
+msgstr ""
+
+#: widgets/icon-box.php:346 widgets/tabs.php:369 widgets/video.php:247
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/icon-box.php:368 widgets/tabs.php:407 widgets/video.php:321
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/icon-box.php:383 widgets/tabs.php:221
+msgid "Text Typography"
+msgstr ""
+
+#: widgets/icon-box.php:394 widgets/video.php:264
+msgid "Space After Icon"
+msgstr ""
+
+#: widgets/icon-box.php:414 widgets/tabs.php:229
+msgid "Text Color"
+msgstr ""
+
+#: widgets/icon-box.php:449
+msgid "Space Between Icon and Title"
+msgstr ""
+
+#: widgets/icon-box.php:469
+msgid "Information Color"
+msgstr ""
+
+#: widgets/icon-box.php:482
+msgid "Information Typography"
+msgstr ""
+
+#: widgets/icon-box.php:493
+msgid "Social Icons Size"
+msgstr ""
+
+#: widgets/icon-box.php:530
+msgid "Space Between Icon and Additional Title"
+msgstr ""
+
+#: widgets/image-box.php:28 widgets/image-box.php:47
+msgid "Image Box"
+msgstr ""
+
+#: widgets/image-box.php:65 widgets/promo-box.php:97
+msgid "Information"
+msgstr ""
+
+#: widgets/image-box.php:79
+msgid "Image Box Settings"
+msgstr ""
+
+#: widgets/linked-item-slider.php:29
+msgid "Linked Item Slider"
+msgstr ""
+
+#: widgets/linked-item-slider.php:52 widgets/linked-item.php:29
+#: widgets/linked-item.php:52
+msgid "Linked Item"
+msgstr ""
+
+#: widgets/linked-item-slider.php:61
+msgid "Item Title"
+msgstr ""
+
+#: widgets/linked-item-slider.php:70
+msgid "Item Image"
+msgstr ""
+
+#: widgets/linked-item-slider.php:83
+msgid "Research Now"
+msgstr ""
+
+#: widgets/linked-item-slider.php:91
+msgid "Item Link"
+msgstr ""
+
+#: widgets/linked-item-slider.php:105
+msgid "Linked Items List"
+msgstr ""
+
+#: widgets/linked-item-slider.php:247
+msgid "Featured Item"
+msgstr ""
+
+#: widgets/linked-item.php:59 widgets/linked-item.php:514
+#: widgets/links-list.php:176
+msgid "Background Image"
+msgstr ""
+
+#: widgets/linked-item.php:70 widgets/linked-item.php:72
+msgid "Up Title"
+msgstr ""
+
+#: widgets/linked-item.php:73
+msgid "Enter Up Title"
+msgstr ""
+
+#: widgets/linked-item.php:83
+msgid "Enter Title"
+msgstr ""
+
+#: widgets/linked-item.php:90
+msgid "Counter"
+msgstr ""
+
+#: widgets/linked-item.php:93
+msgid "Enter Your Count"
+msgstr ""
+
+#: widgets/linked-item.php:100
+msgid "Link Type"
+msgstr ""
+
+#: widgets/linked-item.php:104
+msgid "Linked All Item"
+msgstr ""
+
+#: widgets/linked-item.php:105
+msgid "Linked Title"
+msgstr ""
+
+#: widgets/linked-item.php:128
+msgid "Info Box Alignment"
+msgstr ""
+
+#: widgets/linked-item.php:160
+msgid "Linked Item Settings"
+msgstr ""
+
+#: widgets/linked-item.php:168
+msgid "Linked Item Padding"
+msgstr ""
+
+#: widgets/linked-item.php:229 widgets/testimonials.php:267
+#: widgets/time-line.php:264
+msgid "Up Title Typography"
+msgstr ""
+
+#: widgets/linked-item.php:237 widgets/testimonials.php:275
+#: widgets/time-line.php:272
+msgid "Up Title Color"
+msgstr ""
+
+#: widgets/linked-item.php:286
+msgid "Space After Description"
+msgstr ""
+
+#: widgets/links-list.php:29 widgets/links-list.php:47
+#: widgets/links-list.php:115
+msgid "Links List"
+msgstr ""
+
+#: widgets/links-list.php:68
+msgid "List Title"
+msgstr ""
+
+#: widgets/links-list.php:79
+msgid "Link Text"
+msgstr ""
+
+#: widgets/links-list.php:103
+msgid "Background Image (Only for View Type 2)"
+msgstr ""
+
+#: widgets/location.php:56 widgets/location.php:596
+msgid "Location Image"
+msgstr ""
+
+#: widgets/location.php:67
+msgid "Location Name"
+msgstr ""
+
+#: widgets/location.php:78
+msgid "Location Link"
+msgstr ""
+
+#: widgets/location.php:92
+msgid "Location Address"
+msgstr ""
+
+#: widgets/location.php:101
+msgid "Features Fields Title"
+msgstr ""
+
+#: widgets/location.php:114
+msgid "Feature"
+msgstr ""
+
+#: widgets/location.php:118 widgets/location.php:153 widgets/price-item.php:153
+msgid "Enter Text"
+msgstr ""
+
+#: widgets/location.php:125
+msgid "Features"
+msgstr ""
+
+#: widgets/location.php:136
+msgid "Work Schedule Title"
+msgstr ""
+
+#: widgets/location.php:149
+msgid "Work Hours"
+msgstr ""
+
+#: widgets/location.php:160
+msgid "Work Schedule"
+msgstr ""
+
+#: widgets/location.php:171
+msgid "Phones Title"
+msgstr ""
+
+#: widgets/location.php:184
+msgid "Phone Title"
+msgstr ""
+
+#: widgets/location.php:188
+msgid "Enter Phone Title"
+msgstr ""
+
+#: widgets/location.php:222
+msgid "Location Settings"
+msgstr ""
+
+#: widgets/location.php:231
+msgid "Location Name Typography"
+msgstr ""
+
+#: widgets/location.php:239
+msgid "Location Name Color"
+msgstr ""
+
+#: widgets/location.php:251
+msgid "Location Name Hover"
+msgstr ""
+
+#: widgets/location.php:263
+msgid "Space After Location Name"
+msgstr ""
+
+#: widgets/location.php:282
+msgid "Address Typography"
+msgstr ""
+
+#: widgets/location.php:290
+msgid "Address Color"
+msgstr ""
+
+#: widgets/location.php:302
+msgid "Space After Address"
+msgstr ""
+
+#: widgets/location.php:321
+msgid "Features Title Typography"
+msgstr ""
+
+#: widgets/location.php:329
+msgid "Features Title Color"
+msgstr ""
+
+#: widgets/location.php:341
+msgid "Space After Features Title"
+msgstr ""
+
+#: widgets/location.php:360
+msgid "Features Typography"
+msgstr ""
+
+#: widgets/location.php:368
+msgid "Features Color"
+msgstr ""
+
+#: widgets/location.php:380
+msgid "Space After Features"
+msgstr ""
+
+#: widgets/location.php:399
+msgid "Schedule Title Typography"
+msgstr ""
+
+#: widgets/location.php:407
+msgid "Schedule Title Color"
+msgstr ""
+
+#: widgets/location.php:419
+msgid "Space After Schedule Title"
+msgstr ""
+
+#: widgets/location.php:438
+msgid "Schedule Typography"
+msgstr ""
+
+#: widgets/location.php:446
+msgid "Schedule Color"
+msgstr ""
+
+#: widgets/location.php:458
+msgid "Space After Schedule"
+msgstr ""
+
+#: widgets/location.php:477
+msgid "Phone Title Typography"
+msgstr ""
+
+#: widgets/location.php:485
+msgid "Phone Title Color"
+msgstr ""
+
+#: widgets/location.php:497
+msgid "Space After Phone Title"
+msgstr ""
+
+#: widgets/location.php:516
+msgid "Phone Typography"
+msgstr ""
+
+#: widgets/location.php:524
+msgid "Phone Color"
+msgstr ""
+
+#: widgets/location.php:536
+msgid "Phone Hover"
+msgstr ""
+
+#: widgets/location.php:548
+msgid "Space After Phone"
+msgstr ""
+
+#: widgets/person.php:70
+msgid "Person Name"
+msgstr ""
+
+#: widgets/person.php:79
+msgid "Person Position"
+msgstr ""
+
+#: widgets/person.php:88
+msgid "Person Image"
+msgstr ""
+
+#: widgets/person.php:129
+msgid "Social Color"
+msgstr ""
+
+#: widgets/person.php:142
+msgid "Social Hover"
+msgstr ""
+
+#: widgets/person.php:173
+msgid "Person Settings"
+msgstr ""
+
+#: widgets/person.php:194 widgets/video.php:150
+msgid "Image Custom Size"
+msgstr ""
+
+#: widgets/person.php:205 widgets/promo-box.php:146 widgets/video.php:164
+msgid "Image Width"
+msgstr ""
+
+#: widgets/person.php:218 widgets/promo-box.php:171 widgets/video.php:177
+msgid "Image Height"
+msgstr ""
+
+#: widgets/person.php:240
+msgid "Info Container Background"
+msgstr ""
+
+#: widgets/person.php:254
+msgid "Person Name Typography"
+msgstr ""
+
+#: widgets/person.php:262
+msgid "Person Name Color"
+msgstr ""
+
+#: widgets/person.php:274
+msgid "Person Name Hover"
+msgstr ""
+
+#: widgets/person.php:288
+msgid "Person Position Typography"
+msgstr ""
+
+#: widgets/person.php:296
+msgid "Person Position Color"
+msgstr ""
+
+#: widgets/person.php:308
+msgid "Person Position Hover"
+msgstr ""
+
+#: widgets/person.php:321
+msgid "Socials Color"
+msgstr ""
+
+#: widgets/person.php:333
+msgid "Socials Hover"
+msgstr ""
+
+#: widgets/price-item.php:29 widgets/price-item.php:48
+msgid "Price Item"
+msgstr ""
+
+#: widgets/price-item.php:59 widgets/tabs.php:64
+msgid "Vertical"
+msgstr ""
+
+#: widgets/price-item.php:60 widgets/tabs.php:63
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/price-item.php:116
+msgid "Currency Position"
+msgstr ""
+
+#: widgets/price-item.php:149 widgets/tabs.php:89
+msgid "Text"
+msgstr ""
+
+#: widgets/price-item.php:161
+msgid "Active Field"
+msgstr ""
+
+#: widgets/price-item.php:172
+msgid "Custom Fields"
+msgstr ""
+
+#: widgets/price-item.php:203
+msgid "Get Started"
+msgstr ""
+
+#: widgets/price-item.php:224
+msgid "Best Offer"
+msgstr ""
+
+#: widgets/price-item.php:241
+msgid "Price Item Settings"
+msgstr ""
+
+#: widgets/price-item.php:249
+msgid "Price Item Padding"
+msgstr ""
+
+#: widgets/price-item.php:261
+msgid "Price Item Background"
+msgstr ""
+
+#: widgets/price-item.php:273
+msgid "Best Offer Background"
+msgstr ""
+
+#: widgets/price-item.php:329
+msgid "Price Item Border Radius"
+msgstr ""
+
+#: widgets/price-item.php:358
+msgid "Border Size"
+msgstr ""
+
+#: widgets/price-item.php:378
+msgid "Border Color"
+msgstr ""
+
+#: widgets/price-item.php:473
+msgid "Space After Price"
+msgstr ""
+
+#: widgets/price-item.php:494
+msgid "Price Typography"
+msgstr ""
+
+#: widgets/price-item.php:503
+msgid "Currency Typography"
+msgstr ""
+
+#: widgets/price-item.php:511
+msgid "Price Color"
+msgstr ""
+
+#: widgets/price-item.php:523
+msgid "Space Between Custom Fields"
+msgstr ""
+
+#: widgets/price-item.php:544
+msgid "Custom Fields Typography"
+msgstr ""
+
+#: widgets/price-item.php:555
+msgid "Custom Fields Color"
+msgstr ""
+
+#: widgets/price-item.php:569
+msgid "Active Fields Color"
+msgstr ""
+
+#: widgets/price-item.php:583
+msgid "Space After Marker"
+msgstr ""
+
+#: widgets/price-item.php:616
+msgid "description Color"
+msgstr ""
+
+#: widgets/promo-box.php:28 widgets/promo-box.php:47
+msgid "Promo Box"
+msgstr ""
+
+#: widgets/promo-box.php:79
+msgid "Count"
+msgstr ""
+
+#: widgets/promo-box.php:138
+msgid "Promo Box Settings"
+msgstr ""
+
+#: widgets/shortcodes-tabs.php:29
+msgid "Shortcodes Tabs"
+msgstr ""
+
+#: widgets/shortcodes-tabs.php:52 widgets/shortcodes-tabs.php:80
+#: widgets/tabs.php:29 widgets/tabs.php:52 widgets/tabs.php:162
+msgid "Tabs"
+msgstr ""
+
+#: widgets/shortcodes-tabs.php:61 widgets/tabs.php:75
+msgid "Tab Title"
+msgstr ""
+
+#: widgets/shortcodes-tabs.php:63 widgets/tabs.php:77
+msgid "Tab"
+msgstr ""
+
+#: widgets/shortcodes-tabs.php:64 widgets/tabs.php:78
+msgid "Enter Tab Title"
+msgstr ""
+
+#: widgets/shortcodes-tabs.php:71
+msgid "Tab Shortcode"
+msgstr ""
+
+#: widgets/socials.php:15
+msgid "Display Your Logo and Social Icons from Customizer"
+msgstr ""
+
+#: widgets/socials.php:43
+msgid "Socials"
+msgstr ""
+
+#: widgets/socials.php:72
+msgid "Content Alignment"
+msgstr ""
+
+#: widgets/socials.php:82
+msgid "Logo Image"
+msgstr ""
+
+#: widgets/socials.php:86 widgets/socials.php:180
+msgid "Enabled"
+msgstr ""
+
+#: widgets/socials.php:87 widgets/socials.php:181
+msgid "Disabled"
+msgstr ""
+
+#: widgets/socials.php:91
+msgid "Type of Logo Image"
+msgstr ""
+
+#: widgets/socials.php:95
+msgid "Default Logo Image"
+msgstr ""
+
+#: widgets/socials.php:96
+msgid "Transparent Header Logo Image"
+msgstr ""
+
+#: widgets/socials.php:100
+msgid "Enter Logo Image Width"
+msgstr ""
+
+#: widgets/socials.php:110
+msgid "Enter Logo Image Height"
+msgstr ""
+
+#: widgets/socials.php:128
+msgid "Phone Number 1"
+msgstr ""
+
+#: widgets/socials.php:138
+msgid "Phone Number 2"
+msgstr ""
+
+#: widgets/socials.php:168
+msgid "Additional Information"
+msgstr ""
+
+#: widgets/tabs.php:85
+msgid "Content Type"
+msgstr ""
+
+#: widgets/tabs.php:99
+msgid "Tab Content"
+msgstr ""
+
+#: widgets/tabs.php:135
+msgid "Preview Image"
+msgstr ""
+
+#: widgets/tabs.php:179
+msgid "Text Settings"
+msgstr ""
+
+#: widgets/tabs.php:187
+msgid "Tab Title Color"
+msgstr ""
+
+#: widgets/tabs.php:198
+msgid "Active Tab Title Color"
+msgstr ""
+
+#: widgets/tabs.php:209
+msgid "Active Tab Marker Color"
+msgstr ""
+
+#: widgets/tabs.php:253
+msgid "Columns"
+msgstr ""
+
+#: widgets/tabs.php:257
+msgid "Two Columns"
+msgstr ""
+
+#: widgets/tabs.php:258
+msgid "Three Columns"
+msgstr ""
+
+#: widgets/tabs.php:259
+msgid "Four Columns"
+msgstr ""
+
+#: widgets/tabs.php:267
+msgid "Spaces Between Items"
+msgstr ""
+
+#: widgets/tabs.php:285
+msgid "Images Border Radius"
+msgstr ""
+
+#: widgets/tabs.php:313
+msgid "Video Settings"
+msgstr ""
+
+#: widgets/tabs.php:350 widgets/video.php:228
+msgid "Trigger Button Size"
+msgstr ""
+
+#: widgets/tabs.php:387 widgets/video.php:301
+msgid "Button Text Typography"
+msgstr ""
+
+#: widgets/tabs.php:418 widgets/video.php:332
+msgid "Icon Background"
+msgstr ""
+
+#: widgets/tabs.php:429 widgets/video.php:354
+msgid "Button Text Color"
+msgstr ""
+
+#: widgets/tabs.php:452 widgets/video.php:377
+msgid "Icon Hover"
+msgstr ""
+
+#: widgets/tabs.php:463 widgets/video.php:388
+msgid "Icon Background Hover"
+msgstr ""
+
+#: widgets/tabs.php:474 widgets/video.php:410
+msgid "Button Text Hover"
+msgstr ""
+
+#: widgets/tabs.php:546
+msgid "Video Preview Image"
+msgstr ""
+
+#: widgets/testimonials.php:29 widgets/testimonials.php:52
+#: widgets/testimonials.php:136
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/testimonials.php:73
+msgid "Testimonials Up Title"
+msgstr ""
+
+#: widgets/testimonials.php:75
+msgid "Enter Testimonials Up Title"
+msgstr ""
+
+#: widgets/testimonials.php:94 widgets/testimonials.php:97
+msgid "Testimonials Title"
+msgstr ""
+
+#: widgets/testimonials.php:96
+msgid "Enter testimonials title"
+msgstr ""
+
+#: widgets/testimonials.php:106
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/testimonials.php:110
+msgid "Enter Testimonial Text"
+msgstr ""
+
+#: widgets/testimonials.php:118
+msgid "Author Name"
+msgstr ""
+
+#: widgets/testimonials.php:127
+msgid "Author Position"
+msgstr ""
+
+#: widgets/testimonials.php:243
+msgid "Testimonials Settings"
+msgstr ""
+
+#: widgets/testimonials.php:251
+msgid "Testimonials Background Color"
+msgstr ""
+
+#: widgets/testimonials.php:362
+msgid "Markers Color"
+msgstr ""
+
+#: widgets/testimonials.php:374
+msgid "Space After Testimonial"
+msgstr ""
+
+#: widgets/testimonials.php:393
+msgid "Testimonial Typography"
+msgstr ""
+
+#: widgets/testimonials.php:401
+msgid "Testimonial Color"
+msgstr ""
+
+#: widgets/testimonials.php:414
+msgid "Author Typography"
+msgstr ""
+
+#: widgets/testimonials.php:422
+msgid "Author Color"
+msgstr ""
+
+#: widgets/testimonials.php:435
+msgid "Position Typography"
+msgstr ""
+
+#: widgets/testimonials.php:443
+msgid "Position Color"
+msgstr ""
+
+#: widgets/time-line.php:29 widgets/time-line.php:51
+msgid "Timeline"
+msgstr ""
+
+#: widgets/time-line.php:58
+msgid "Timeline Heading"
+msgstr ""
+
+#: widgets/time-line.php:61
+msgid "This is heading"
+msgstr ""
+
+#: widgets/time-line.php:68
+msgid "Timeline Up Heading"
+msgstr ""
+
+#: widgets/time-line.php:80
+msgid "Year"
+msgstr ""
+
+#: widgets/time-line.php:109
+msgid "Timeline Items"
+msgstr ""
+
+#: widgets/time-line.php:133
+msgid "Slides To Show"
+msgstr ""
+
+#: widgets/time-line.php:140
+msgid "Five"
+msgstr ""
+
+#: widgets/time-line.php:214
+msgid "Navigation"
+msgstr ""
+
+#: widgets/time-line.php:255
+msgid "Timeline Settings"
+msgstr ""
+
+#: widgets/time-line.php:306
+msgid "Date Typography"
+msgstr ""
+
+#: widgets/time-line.php:314
+msgid "Date Color"
+msgstr ""
+
+#: widgets/video.php:142
+msgid "Video Widget Settings"
+msgstr ""
+
+#: widgets/video.php:285
+msgid "Animation"
+msgstr ""
+
+#: widgets/video.php:343
+msgid "Icon Border"
+msgstr ""
+
+#: widgets/video.php:399
+msgid "Icon Border Hover"
+msgstr ""
+
+#: widgets/working-hours.php:15
+msgid "Display Working Hours of Your Company"
+msgstr ""
+
+#: widgets/working-hours.php:62 widgets/working-hours.php:150
+msgid "Monday"
+msgstr ""
+
+#: widgets/working-hours.php:72 widgets/working-hours.php:154
+msgid "Tuesday"
+msgstr ""
+
+#: widgets/working-hours.php:82 widgets/working-hours.php:158
+msgid "Wednesday"
+msgstr ""
+
+#: widgets/working-hours.php:92 widgets/working-hours.php:162
+msgid "Thursday"
+msgstr ""
+
+#: widgets/working-hours.php:101 widgets/working-hours.php:166
+msgid "Friday"
+msgstr ""
+
+#: widgets/working-hours.php:111 widgets/working-hours.php:170
+msgid "Saturday"
+msgstr ""
+
+#: widgets/working-hours.php:121 widgets/working-hours.php:174
+msgid "Sunday"
+msgstr ""
+
+#: wild-world-plugin.php:314
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: wild-world-plugin.php:315 wild-world-plugin.php:325
+msgid "TransX Plugin"
+msgstr ""
+
+#: wild-world-plugin.php:316 wild-world-plugin.php:326
+msgid "Elementor"
+msgstr ""
+
+#: wild-world-plugin.php:324 wild-world-plugin.php:335
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: wild-world-plugin.php:336
+msgid "Press Elements"
+msgstr ""
+
+#: wild-world-plugin.php:337
+msgid "PHP"
+msgstr ""
+
+#: wild-world-plugin.php:351
+msgid "TransX Widgets"
+msgstr ""
+
+#: wild-world-plugin.php:460
+msgid "Default"
+msgstr ""
+
+#: wild-world-plugin.php:475
+msgid "Background Color"
+msgstr ""
+
+#: wild-world-plugin.php:491
+msgid "Figure Corner"
+msgstr ""
+
+#: wild-world-plugin.php:508
+msgid "Counter Alignment"
+msgstr ""
+
+#: wild-world-plugin.php:536
+msgid "Title Alignment"
+msgstr ""
+
+#: wild-world-plugin.php:604
+msgid "Counter Numbers Size"
+msgstr ""
